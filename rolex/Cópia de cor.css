@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mudar Cor do Texto em HTML</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1> <h1>ROLEX</h1>em Azul</h1>
+    <p>Este texto está em verde.</p>
+    <p>Este texto está em vermelho usando código hexadecimal.</p>
+</body>
+
+h1 {ROLEX
+    color: red;
+}
+
+p {
+    color: green;
+}
+
+p:last-of-type {
+    color: #ff0000;
+}
